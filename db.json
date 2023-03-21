@@ -1,0 +1,868 @@
+{
+    "idoli": [{
+            "id": 1,
+            "ime": "Darko",
+            "prezime": "Grubišić",
+            "nadimak": "DARE KOMUNALAC",
+            "godine": "48",
+            "mjesto": "Zukići",
+            "opis": "Zajeban momak,radi kao komunalni radnik,prljav i mrljav,traži žene preko facebooka i xhamstera,odjeća na njemu nije oprana 10 godina,pije 5 litara pive dnevno plus rakiju"
+        },
+        {
+            "id": 2,
+            "ime": "Vlado",
+            "prezime": "Trlin",
+            "nadimak": "HABE",
+            "godine": "47",
+            "mjesto": "Podorašac",
+            "opis": "Budaletina koja nije oženjena jer ga žene neće,pije 5 litara pive dnevno,vrijedan brz i snažan"
+        },
+        {
+            "id": 3,
+            "ime": "Anđelko",
+            "prezime": "Mikulić",
+            "nadimak": "PRINKE",
+            "godine": "75",
+            "mjesto": "Podorašac",
+            "opis": "Legenda cijelog sela,pije litar Stocka 84 dnevno plus litar šljive i litar loze,kopa grobnice u obliku slova V tako da uvijek mora neko ispravljat za njim,jedne godine pri prodaji magareta donjeo prodavaču litar Stocka 84 i popio taj isti"
+        },
+        {
+            "id": 4,
+            "ime": "Boris",
+            "prezime": "Mikulić",
+            "nadimak": "BOKI",
+            "godine": "43",
+            "mjesto": "Podorašac",
+            "opis": "Prinketov sin,također kopač krivih grobnica,radnik u Eronetu,prilikom prijema u Eronet dao broj telefona od bh telecoma"
+        },
+        {
+            "id": 5,
+            "ime": "Pero",
+            "prezime": "Azinović",
+            "nadimak": "PERO KONZERVA",
+            "godine": "67",
+            "mjesto": "Kanjina",
+            "opis": ""
+        },
+        {
+            "id": 6,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 7,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 8,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 9,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 10,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 11,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 12,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 13,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 14,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 15,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 16,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 17,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 18,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 19,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 20,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 21,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 22,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 23,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 24,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 25,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 26,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 27,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 28,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 29,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 30,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 31,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 32,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 33,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 34,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 35,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 36,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 37,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 38,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 39,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 40,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 41,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 42,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 43,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 44,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 45,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 46,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 47,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 48,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 49,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 50,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 51,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 52,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 53,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 54,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 55,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 56,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 57,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 58,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 59,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 60,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 61,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 62,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 63,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 64,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 65,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 66,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 67,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 68,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 69,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 70,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 71,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 72,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 73,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 74,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 75,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 76,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 77,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 78,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 79,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 80,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 81,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 82,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 83,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 84,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 85,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 86,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 87,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 88,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 89,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 90,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 91,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 92,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 93,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 94,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 95,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        },
+        {
+            "id": 96,
+            "ime": "",
+            "prezime": "",
+            "nadimak": "",
+            "godine": "",
+            "mjesto": "",
+            "opis": ""
+        }
+
+    ]
+}
