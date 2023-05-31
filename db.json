@@ -6,7 +6,8 @@
             "nadimak": "DARE KOMUNALAC",
             "godine": "48",
             "mjesto": "Zukići",
-            "opis": "Zajeban momak,radi kao komunalni radnik,prljav i mrljav,traži žene preko facebooka i xhamstera,odjeća na njemu nije oprana 10 godina,pije 5 litara pive dnevno plus rakiju"
+            "opis": "Zajeban momak,radi kao komunalni radnik,prljav i mrljav,traži žene preko facebooka i xhamstera,odjeća na njemu nije oprana 10 godina,pije 5 litara pive dnevno plus rakiju",
+            "slika": ""
         },
         {
             "id": 2,
@@ -15,7 +16,8 @@
             "nadimak": "HABE",
             "godine": "43",
             "mjesto": "Podorašac",
-            "opis": "Budaletina koja nije oženjena jer ga žene neće,pije 5 litara pive dnevno,vrijedan brz i snažan"
+            "opis": "Budaletina koja nije oženjena jer ga žene neće,pije 5 litara pive dnevno,vrijedan brz i snažan",
+            "slika": ""
         },
         {
             "id": 3,
@@ -24,7 +26,8 @@
             "nadimak": "PRINKE",
             "godine": "75",
             "mjesto": "Podorašac",
-            "opis": "Legenda cijelog sela,pije litar Stocka 84 dnevno plus litar šljive i litar loze,kopa grobnice u obliku slova V tako da uvijek mora neko ispravljat za njim,jedne godine pri prodaji magareta donjeo prodavaču litar Stocka 84 i popio taj isti"
+            "opis": "Legenda cijelog sela,pije litar Stocka 84 dnevno plus litar šljive i litar loze,kopa grobnice u obliku slova V tako da uvijek mora neko ispravljat za njim,jedne godine pri prodaji magareta donjeo prodavaču litar Stocka 84 i popio taj isti",
+            "slika": "images/prinke"
         },
         {
             "id": 4,
@@ -33,7 +36,8 @@
             "nadimak": "BOKI",
             "godine": "43",
             "mjesto": "Podorašac",
-            "opis": "Prinketov sin,također kopač krivih grobnica,radnik u Eronetu,prilikom prijema u Eronet dao broj telefona od bh telecoma"
+            "opis": "Prinketov sin,također kopač krivih grobnica,radnik u Eronetu,prilikom prijema u Eronet dao broj telefona od bh telecoma",
+            "slika": ""
         },
         {
             "id": 5,
@@ -42,7 +46,8 @@
             "nadimak": "PERO KONZERVA",
             "godine": "67",
             "mjesto": "Kanjina",
-            "opis": "Najveća budaletina u selu,ni s kim se ne druži,ženu 10 puta prebio i otjero iz kuće,glumi policajca"
+            "opis": "Najveća budaletina u selu,ni s kim se ne druži,ženu 10 puta prebio i otjero iz kuće,glumi policajca",
+            "slika": ""
         },
         {
             "id": 6,
@@ -51,7 +56,8 @@
             "nadimak": "LISA",
             "godine": "67",
             "mjesto": "Kanjina",
-            "opis": "Dobar čovjek,ispravlja Prinketov nered,vrijedan,živac,veliki igrač binga"
+            "opis": "Dobar čovjek,ispravlja Prinketov nered,vrijedan,živac,veliki igrač binga",
+            "slika": ""
         },
         {
             "id": 7,
@@ -60,7 +66,8 @@
             "nadimak": "DOKTOR ZDENA",
             "godine": "57",
             "mjesto": "Kanjina",
-            "opis": "Veliki čovjek,alkoholičar,dobričina kad je trijezan,kad je pijan zaspe i moraju ga uvijek voziti kući,ima 157 kilograma,glavni majstor za svinjokolju"
+            "opis": "Veliki čovjek,alkoholičar,dobričina kad je trijezan,kad je pijan zaspe i moraju ga uvijek voziti kući,ima 157 kilograma,glavni majstor za svinjokolju",
+            "slika": ""
         },
         {
             "id": 8,
@@ -69,7 +76,8 @@
             "nadimak": "76",
             "godine": "PERO DUŠA",
             "mjesto": "Kanjina",
-            "opis": "Trebo se ženit,međutim cura ga ostavila,dobio lom živaca,u ratu totalno poludio,jedini ima hrabrosti da se suprostavi balijama"
+            "opis": "Trebo se ženit,međutim cura ga ostavila,dobio lom živaca,u ratu totalno poludio,jedini ima hrabrosti da se suprostavi balijama",
+            "slika": ""
         },
         {
             "id": 9,
@@ -78,7 +86,8 @@
             "nadimak": "ROĐAK MARE,ROLE",
             "godine": "74",
             "mjesto": "Kanjina",
-            "opis": "Teški alkoholičar,zbog alkohola izgubio društvo i ljude oko sebe,vozi bicikl,par puta prilikom vožnje u pijanom stanju oduzeo prvenstvo prolaza,zadnji put sa DOKTOROM ZDENOM se napio i otpratio ZDENU kući ali obodvojica su padali par puta na zemlju"
+            "opis": "Teški alkoholičar,zbog alkohola izgubio društvo i ljude oko sebe,vozi bicikl,par puta prilikom vožnje u pijanom stanju oduzeo prvenstvo prolaza,zadnji put sa DOKTOROM ZDENOM se napio i otpratio ZDENU kući ali obodvojica su padali par puta na zemlju",
+            "slika": ""
         },
         {
             "id": 10,
@@ -87,7 +96,8 @@
             "nadimak": "FABIJAN",
             "godine": "67",
             "mjesto": "Ovčari",
-            "opis": "Velika budala,živio do 2011 godine u Zagrebu,oženjen ima dvoje djece,alkoholičar,žena ga ostavila zbog alkohola i vratio se sestri"
+            "opis": "Velika budala,živio do 2011 godine u Zagrebu,oženjen ima dvoje djece,alkoholičar,žena ga ostavila zbog alkohola i vratio se sestri",
+            "slika": ""
         },
         {
             "id": 11,
@@ -96,7 +106,8 @@
             "nadimak": "ROKE",
             "godine": "66",
             "mjesto": "Ovčari",
-            "opis": "Najveća legenda,vrijedan,pametan brz,najbolji u svim sportovima,voli popiti ponekad rakiju,kad popije radi zanimljivosti,najbolji je bio kad je dva puta za jednu večer poslje koje rakije prvo otišao u kućicu od njemačkog ovčara,drugi put popeo se na vrh drače,a treći put jedva došo kući pa se vraćo nazad"
+            "opis": "Najveća legenda,vrijedan,pametan brz,najbolji u svim sportovima,voli popiti ponekad rakiju,kad popije radi zanimljivosti,najbolji je bio kad je dva puta za jednu večer poslje koje rakije prvo otišao u kućicu od njemačkog ovčara,drugi put popeo se na vrh drače,a treći put jedva došo kući pa se vraćo nazad",
+            "slika": ""
         },
         {
             "id": 12,
@@ -105,7 +116,8 @@
             "nadimak": "MLADEN MATIŠA",
             "godine": "84",
             "mjesto": "Ovčari",
-            "opis": "Prava budala,galamdžija,zavađa selo"
+            "opis": "Prava budala,galamdžija,zavađa selo",
+            "slika": ""
         },
         {
             "id": 13,
@@ -114,7 +126,8 @@
             "nadimak": "KUŠMO",
             "godine": "77",
             "mjesto": "Ovčari",
-            "opis": "Budala,ljubitelj žena,seksualno aktivan"
+            "opis": "Budala,ljubitelj žena,seksualno aktivan",
+            "slika": ""
         },
         {
             "id": 14,
@@ -123,7 +136,8 @@
             "nadimak": "PIJANO",
             "godine": "62",
             "mjesto": "Ovčari",
-            "opis": "Velika budaletina i alkoholičar,ostavio ženu radi ljubavnice u svatovima,i oženio ljubavnicu,otišo u Njemačku s prostitutkom na bauštelu,pa umjesto bauštele radio orgije,vratio se kući prodaje piliće"
+            "opis": "Velika budaletina i alkoholičar,ostavio ženu radi ljubavnice u svatovima,i oženio ljubavnicu,otišo u Njemačku s prostitutkom na bauštelu,pa umjesto bauštele radio orgije,vratio se kući prodaje piliće",
+            "slika": ""
         },
         {
             "id": 15,
@@ -132,7 +146,8 @@
             "nadimak": "BRUNO RAJIČ",
             "godine": "61",
             "mjesto": "Ovčari",
-            "opis": "PIJANIN brat,također ostavio ženu zbog orgija,vratio se kući da gleda porno filmove"
+            "opis": "PIJANIN brat,također ostavio ženu zbog orgija,vratio se kući da gleda porno filmove",
+            "slika": ""
         },
         {
             "id": 16,
@@ -141,7 +156,8 @@
             "nadimak": "JOZO RAJIČ",
             "godine": "86",
             "mjesto": "Ovčari",
-            "opis": "Pametan čovjek,prodo zemlju i pobjego od balija u Čapljinu,studira medicinu u 86 godini"
+            "opis": "Pametan čovjek,prodo zemlju i pobjego od balija u Čapljinu,studira medicinu u 86 godini",
+            "slika": ""
         },
         {
             "id": 17,
@@ -150,7 +166,8 @@
             "nadimak": "ROĐAK BRANE",
             "godine": "66",
             "mjesto": "Ovčari",
-            "opis": "Velika budala,voza mercedesa,dvaput slupo auto,oženio se pa ga žena ostavila,sad oženio sado mazo ženu od 200 kila"
+            "opis": "Velika budala,voza mercedesa,dvaput slupo auto,oženio se pa ga žena ostavila,sad oženio sado mazo ženu od 200 kila",
+            "slika": ""
         },
         {
             "id": 18,
@@ -159,7 +176,8 @@
             "nadimak": "KOZARA",
             "godine": "70",
             "mjesto": "Ovčari",
-            "opis": "Budala koja je ostavila ženu radi ljubavnice s kojom se oženio,drvosječa koji krade trula drva,škrtac"
+            "opis": "Budala koja je ostavila ženu radi ljubavnice s kojom se oženio,drvosječa koji krade trula drva,škrtac",
+            "slika": ""
         },
         {
             "id": 19,
@@ -168,7 +186,8 @@
             "nadimak": "VLATKO",
             "godine": "59",
             "mjesto": "Ovčari",
-            "opis": "Najbolji čovjek,vrijedan,provala"
+            "opis": "Najbolji čovjek,vrijedan,provala",
+            "slika": ""
         },
         {
             "id": 20,
@@ -177,7 +196,8 @@
             "nadimak": "ŠEKI",
             "godine": "66",
             "mjesto": "Ovčari",
-            "opis": "Teški alkoholičar,ne trijezni se,žena ga prevarila,dobio donaciju od HRVATSKE i donaciju potrošio u alkohol za 7 dana"
+            "opis": "Teški alkoholičar,ne trijezni se,žena ga prevarila,dobio donaciju od HRVATSKE i donaciju potrošio u alkohol za 7 dana",
+            "slika": ""
         },
         {
             "id": 21,
@@ -186,7 +206,8 @@
             "nadimak": "VLADO RIBAR",
             "godine": "64",
             "mjesto": "Ovčari",
-            "opis": "Legenda,psihički nestabilan,voli loviti ribu,sporo hoda"
+            "opis": "Legenda,psihički nestabilan,voli loviti ribu,sporo hoda",
+            "slika": ""
         },
         {
             "id": 22,
@@ -195,7 +216,8 @@
             "nadimak": "DADO VRBIĆ",
             "godine": "51",
             "mjesto": "Vrbići",
-            "opis": "Rastavljena budala,oženio psihički bolesnu ženu koja mu je otela dijete,odo se alkoholu,ne trijezni se"
+            "opis": "Rastavljena budala,oženio psihički bolesnu ženu koja mu je otela dijete,odo se alkoholu,ne trijezni se",
+            "slika": ""
         },
         {
             "id": 23,
@@ -204,7 +226,8 @@
             "nadimak": "NINO",
             "godine": "64",
             "mjesto": "Vrbići",
-            "opis": "Budala,pati zbog gubitka žene,utjehu našo u rakiji,prilikom zakuske poslje mise pao i udario glavom u kamen bez ikakvih ozljeda,poznat po postavljanju grba HERCEG BOSNE na tunelu između Mostara i Čapljine"
+            "opis": "Budala,pati zbog gubitka žene,utjehu našo u rakiji,prilikom zakuske poslje mise pao i udario glavom u kamen bez ikakvih ozljeda,poznat po postavljanju grba HERCEG BOSNE na tunelu između Mostara i Čapljine",
+            "slika": ""
         },
         {
             "id": 24,
@@ -213,7 +236,8 @@
             "nadimak": "BRILE",
             "godine": "59",
             "mjesto": "Ovčari",
-            "opis": "Najveća legenda,vrijedan,brz,ne razmišlja,priča sve,nekad slaže pokoju,drvosječa,ponekad popije rakiju,prilikom slavlja se napio i hodo po bijeloj liniji na cesti"
+            "opis": "Najveća legenda,vrijedan,brz,ne razmišlja,priča sve,nekad slaže pokoju,drvosječa,ponekad popije rakiju,prilikom slavlja se napio i hodo po bijeloj liniji na cesti",
+            "slika": ""
         },
         {
             "id": 25,
@@ -222,7 +246,8 @@
             "nadimak": "ŠAPA",
             "godine": "66",
             "mjesto": "Trešanica",
-            "opis": "Jedan od najboljih,magistar željezničkog prometa,radio kao direktor sve dok ga žena nije prevarila,od tada poludio i posto legenda,92 otišo u Njemačku pa se proslavio zato idemo redom,utakmica niže lige u Dortmundu svi u publici sjede a on na sjedalice na biciklu,sezona trešanja u Njemačkoj on u tuđem dvorištu bere,okupili se specijalci i vatrogasci,zatim protjeran iz Njemačke,vratio se i nastavio brat tuđe voće i povrće,ima zarazan smijeh"
+            "opis": "Jedan od najboljih,magistar željezničkog prometa,radio kao direktor sve dok ga žena nije prevarila,od tada poludio i posto legenda,92 otišo u Njemačku pa se proslavio zato idemo redom,utakmica niže lige u Dortmundu svi u publici sjede a on na sjedalice na biciklu,sezona trešanja u Njemačkoj on u tuđem dvorištu bere,okupili se specijalci i vatrogasci,zatim protjeran iz Njemačke,vratio se i nastavio brat tuđe voće i povrće,ima zarazan smijeh",
+            "slika": ""
         },
         {
             "id": 26,
@@ -231,7 +256,8 @@
             "nadimak": "ĆIVA",
             "godine": "65",
             "mjesto": "Suhi Dol",
-            "opis": "Dobar čovjek,muči se sa ženom koja ga kontrolira,ne može mrdnut,voli koju čašu rakije,vrijedan ali lijen i spor"
+            "opis": "Dobar čovjek,muči se sa ženom koja ga kontrolira,ne može mrdnut,voli koju čašu rakije,vrijedan ali lijen i spor",
+            "slika": ""
         },
         {
             "id": 27,
@@ -240,7 +266,8 @@
             "nadimak": "ŠILE ŽUTI",
             "godine": "56",
             "mjesto": "Suhi Dol",
-            "opis": "Legenda,voli rakiju i ne može bez nje,razlog je žena koja ga je ostavila radi balije,vrijedan brz i pametan"
+            "opis": "Legenda,voli rakiju i ne može bez nje,razlog je žena koja ga je ostavila radi balije,vrijedan brz i pametan",
+            "slika": ""
         },
         {
             "id": 28,
@@ -249,7 +276,8 @@
             "nadimak": "PEPO",
             "godine": "72",
             "mjesto": "Suhi Dol",
-            "opis": "Čovjek koji peče i prodaje rakiju,većina legendi ponekad kupi od njega,ali od njegove rakije(šećeruše) svak zaglavi"
+            "opis": "Čovjek koji peče i prodaje rakiju,većina legendi ponekad kupi od njega,ali od njegove rakije(šećeruše) svak zaglavi",
+            "slika": ""
         },
         {
             "id": 29,
@@ -258,7 +286,8 @@
             "nadimak": "DARE",
             "godine": "62",
             "mjesto": "Orašje",
-            "opis": "Također prodavač rakije šećeruše,također su ljudi zaglavljivali,sve zna"
+            "opis": "Također prodavač rakije šećeruše,također su ljudi zaglavljivali,sve zna",
+            "slika": ""
         },
         {
             "id": 30,
@@ -267,7 +296,8 @@
             "nadimak": "ZINGE",
             "godine": "53",
             "mjesto": "Varda",
-            "opis": "Legenda,od normalnog momka žena napravila alkoholičara,ne trijezni se,žena i punica ga kontroliraju ne može mrdnut"
+            "opis": "Legenda,od normalnog momka žena napravila alkoholičara,ne trijezni se,žena i punica ga kontroliraju ne može mrdnut",
+            "slika": ""
         },
         {
             "id": 31,
@@ -276,7 +306,8 @@
             "nadimak": "KEČA",
             "godine": "59",
             "mjesto": "Kolonija",
-            "opis": "Pravi momak,voli pivu više nego rakiju,pametan vrijedan ali vazda s promilima"
+            "opis": "Pravi momak,voli pivu više nego rakiju,pametan vrijedan ali vazda s promilima",
+            "slika": ""
         },
         {
             "id": 32,
@@ -285,7 +316,8 @@
             "nadimak": "SRELE",
             "godine": "60",
             "mjesto": "Kolonija",
-            "opis": "Pravi momak,vrijedan održava HRVATE na okupu,pošten"
+            "opis": "Pravi momak,vrijedan održava HRVATE na okupu,pošten",
+            "slika": ""
         },
         {
             "id": 33,
@@ -294,7 +326,8 @@
             "nadimak": "RIBA",
             "godine": "53",
             "mjesto": "Čelebići",
-            "opis": "Legenda,dosadan ko proljev,kad priča ne možeš ga se riješit"
+            "opis": "Legenda,dosadan ko proljev,kad priča ne možeš ga se riješit",
+            "slika": ""
         },
         {
             "id": 34,
@@ -303,7 +336,8 @@
             "nadimak": "MIJO ĐOPA",
             "godine": "70",
             "mjesto": "Klis",
-            "opis": "Legenda,tri puta se ženio tri puta ga žene ostavile,kupovo nekretnine i prodavo ih za male pare,na kraju se odo rakiji"
+            "opis": "Legenda,tri puta se ženio tri puta ga žene ostavile,kupovo nekretnine i prodavo ih za male pare,na kraju se odo rakiji",
+            "slika": ""
         },
         {
             "id": 35,
@@ -312,7 +346,8 @@
             "nadimak": "KREZIĆ",
             "godine": "73",
             "mjesto": "Mostar",
-            "opis": "Veliki ženskaroš,ljubavnice na prvom mjestu,voli pojest i popit"
+            "opis": "Veliki ženskaroš,ljubavnice na prvom mjestu,voli pojest i popit",
+            "slika": ""
         },
         {
             "id": 36,
@@ -321,7 +356,8 @@
             "nadimak": "LEVI",
             "godine": "61",
             "mjesto": "Mostar",
-            "opis": "Legenda,dobar ali nezadovoljan,voli koju rakiju viška"
+            "opis": "Legenda,dobar ali nezadovoljan,voli koju rakiju viška",
+            "slika": ""
         },
         {
             "id": 37,
@@ -330,7 +366,8 @@
             "nadimak": "PAVO",
             "godine": "67",
             "mjesto": "Mostar",
-            "opis": "Legenda,branitelj HVO,alkoholičar teški,ostavila ga žena jer je mlatio ženu pod dozom,špijun"
+            "opis": "Legenda,branitelj HVO,alkoholičar teški,ostavila ga žena jer je mlatio ženu pod dozom,špijun",
+            "slika": ""
         },
         {
             "id": 38,
@@ -339,7 +376,8 @@
             "nadimak": "ZEKAČA",
             "godine": "59",
             "mjesto": "Turija",
-            "opis": "Legenda,oženio balinkuru koja ga kontrolira,seljak,prljav i mrljav,krezav"
+            "opis": "Legenda,oženio balinkuru koja ga kontrolira,seljak,prljav i mrljav,krezav",
+            "slika": ""
         },
         {
             "id": 39,
@@ -348,7 +386,8 @@
             "nadimak": "MARA",
             "godine": "61",
             "mjesto": "Bijela",
-            "opis": "Teški alkoholičar,prljav i mrljav,potreban odred za čistoću"
+            "opis": "Teški alkoholičar,prljav i mrljav,potreban odred za čistoću",
+            "slika": ""
         },
         {
             "id": 40,
@@ -357,7 +396,8 @@
             "nadimak": "DARE JEBAČ",
             "godine": "59",
             "mjesto": "Mostar",
-            "opis": "Ostavio ženu i dijete radi kurve,lovi ribu s budalama,predaje na fakultetu"
+            "opis": "Ostavio ženu i dijete radi kurve,lovi ribu s budalama,predaje na fakultetu",
+            "slika": ""
         },
         {
             "id": 41,
@@ -366,7 +406,8 @@
             "nadimak": "JOZARA",
             "godine": "58",
             "mjesto": "Mostar",
-            "opis": "Vrhunski ribar,nije oženjen,smotan"
+            "opis": "Vrhunski ribar,nije oženjen,smotan",
+            "slika": ""
         },
         {
             "id": 42,
@@ -375,7 +416,8 @@
             "nadimak": "PERICA",
             "godine": "64",
             "mjesto": "Mostar",
-            "opis": "Vrhunski biciklist i planinar,provala"
+            "opis": "Vrhunski biciklist i planinar,provala",
+            "slika": ""
         },
         {
             "id": 43,
@@ -384,7 +426,8 @@
             "nadimak": "ZORKO",
             "godine": "65",
             "mjesto": "Mostar",
-            "opis": "Škrtac,dosadan,voli sve znat,ispituje narod"
+            "opis": "Škrtac,dosadan,voli sve znat,ispituje narod",
+            "slika": ""
         },
         {
             "id": 44,
@@ -393,7 +436,8 @@
             "nadimak": "GERA",
             "godine": "60",
             "mjesto": "Mostar",
-            "opis": "Dobričina,dosadan,vrijedan,pametan,samac"
+            "opis": "Dobričina,dosadan,vrijedan,pametan,samac",
+            "slika": ""
         },
         {
             "id": 45,
@@ -402,7 +446,8 @@
             "nadimak": "TATEK MATAN",
             "godine": "73",
             "mjesto": "Mostar",
-            "opis": "Dobar čovjek,posto budala zbog žene,muti i laže,ne zna se ništa o njemu u zadnje vrijeme,teški alkoholičar,izbjegava narod"
+            "opis": "Dobar čovjek,posto budala zbog žene,muti i laže,ne zna se ništa o njemu u zadnje vrijeme,teški alkoholičar,izbjegava narod",
+            "slika": ""
         },
         {
             "id": 46,
@@ -411,7 +456,8 @@
             "nadimak": "BRUNO PETROVIĆ",
             "godine": "51",
             "mjesto": "Međugorje",
-            "opis": "Dobar čovjek,voli rakiju viška,provala"
+            "opis": "Dobar čovjek,voli rakiju viška,provala",
+            "slika": ""
         },
         {
             "id": 47,
@@ -420,7 +466,8 @@
             "nadimak": "BRANĐA",
             "godine": "75",
             "mjesto": "Ortiješ",
-            "opis": "Teški alkoholičar,pirat s Kariba,provala"
+            "opis": "Teški alkoholičar,pirat s Kariba,provala",
+            "slika": ""
         },
         {
             "id": 48,
@@ -429,7 +476,8 @@
             "nadimak": "ANTE PRANJIĆ",
             "godine": "54",
             "mjesto": "Ortiješ",
-            "opis": "Škrtac,dosadan ko proljev,provala"
+            "opis": "Škrtac,dosadan ko proljev,provala",
+            "slika": ""
         },
         {
             "id": 49,
@@ -438,7 +486,8 @@
             "nadimak": "ROĐAK MLAĐO",
             "godine": "68",
             "mjesto": "Buna",
-            "opis": "Legenda,provala,dobričina,strastveni lovac"
+            "opis": "Legenda,provala,dobričina,strastveni lovac",
+            "slika": ""
         },
         {
             "id": 50,
@@ -447,7 +496,8 @@
             "nadimak": "ZOKA TUNTAŠ",
             "godine": "66",
             "mjesto": "Buna",
-            "opis": "Veliki lovac,provala,dosadan ko proljev"
+            "opis": "Veliki lovac,provala,dosadan ko proljev",
+            "slika": ""
         },
         {
             "id": 51,
@@ -456,7 +506,8 @@
             "nadimak": "SLAVKO",
             "godine": "75",
             "mjesto": "Buna",
-            "opis": "Dosadan ko proljev,škrtac,donosi besplatno brlju idolima"
+            "opis": "Dosadan ko proljev,škrtac,donosi besplatno brlju idolima",
+            "slika": ""
         },
         {
             "id": 52,
@@ -465,7 +516,8 @@
             "nadimak": "SREĆKO NIKŠIĆ",
             "godine": "72",
             "mjesto": "Žito",
-            "opis": "Teški alkoholičar,sjebala ga kurva i otjerala ženu od njega,provala"
+            "opis": "Teški alkoholičar,sjebala ga kurva i otjerala ženu od njega,provala",
+            "slika": ""
         },
         {
             "id": 53,
@@ -474,7 +526,8 @@
             "nadimak": "DARE NASILNIK",
             "godine": "51",
             "mjesto": "Žito",
-            "opis": "Najveći nasilnik,mlati ženu i punicu,štiti selo od balija i jedini ima hrabrosti da im se suprostavi,voli popiti koju rakiju viška"
+            "opis": "Najveći nasilnik,mlati ženu i punicu,štiti selo od balija i jedini ima hrabrosti da im se suprostavi,voli popiti koju rakiju viška",
+            "slika": ""
         },
         {
             "id": 54,
@@ -483,7 +536,8 @@
             "nadimak": "DOKTOR MARIJO",
             "godine": "64",
             "mjesto": "Višići",
-            "opis": "Najbolji doktor,voli popiti koju rakiju viška,provala,dobričina"
+            "opis": "Najbolji doktor,voli popiti koju rakiju viška,provala,dobričina",
+            "slika": ""
         },
         {
             "id": 55,
@@ -492,7 +546,8 @@
             "nadimak": "DREKO",
             "godine": "60",
             "mjesto": "Čeljevo",
-            "opis": "Teški alkoholičar,presto privremeno piti,provala,dobričina kad je trijezan"
+            "opis": "Teški alkoholičar,presto privremeno piti,provala,dobričina kad je trijezan",
+            "slika": ""
         },
         {
             "id": 56,
@@ -501,7 +556,8 @@
             "nadimak": "DANE NOGOLICA",
             "godine": "67",
             "mjesto": "Čeljevo",
-            "opis": "Piva broj 1,dobričina,provala"
+            "opis": "Piva broj 1,dobričina,provala",
+            "slika": ""
         },
         {
             "id": 57,
@@ -510,7 +566,8 @@
             "nadimak": "ŽELJA BIZNIS",
             "godine": "66",
             "mjesto": "Pirovac",
-            "opis": "Legenda po pričama,piva broj 1,tri puta vozio auto tri puta odletio,jednom u banderu,drugi put u brdo na parkingu za šleperu,treći put nije osiguro auto i auto puno pilića odletilo u neretvu,prilikom kupanja mijenjo sijalicu i zdrmala ga struja"
+            "opis": "Legenda po pričama,piva broj 1,tri puta vozio auto tri puta odletio,jednom u banderu,drugi put u brdo na parkingu za šleperu,treći put nije osiguro auto i auto puno pilića odletilo u neretvu,prilikom kupanja mijenjo sijalicu i zdrmala ga struja",
+            "slika": ""
         },
         {
             "id": 58,
@@ -519,7 +576,8 @@
             "nadimak": "ZVONKA SUKALO",
             "godine": "79",
             "mjesto": "Zadar",
-            "opis": "Živa provala,dobričina,voli varat u pokeru"
+            "opis": "Živa provala,dobričina,voli varat u pokeru",
+            "slika": ""
         },
         {
             "id": 59,
@@ -528,7 +586,8 @@
             "nadimak": "ŽELJA NIKŠIĆ",
             "godine": "64",
             "mjesto": "Zagreb",
-            "opis": "Provala,dobričina,uvjek se smije"
+            "opis": "Provala,dobričina,uvjek se smije",
+            "slika": ""
         },
         {
             "id": 60,
@@ -537,7 +596,8 @@
             "nadimak": "MRAVAK",
             "godine": "55",
             "mjesto": "Frankfurt",
-            "opis": "Dosadan ko proljev,dobričina,vrijedan"
+            "opis": "Dosadan ko proljev,dobričina,vrijedan",
+            "slika": ""
         },
         {
             "id": 61,
@@ -546,7 +606,8 @@
             "nadimak": "BRUNO BORAS",
             "godine": "61",
             "mjesto": "Ortiješ",
-            "opis": "Ostavio trudnu zaručnicu zbog kurve,veliki ribar,provala,izgubljen,letio 100 metara u dubinu zaustavio se na grani bez teških ozljeda"
+            "opis": "Ostavio trudnu zaručnicu zbog kurve,veliki ribar,provala,izgubljen,letio 100 metara u dubinu zaustavio se na grani bez teških ozljeda",
+            "slika": ""
         }
     ]
 }
